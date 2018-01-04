@@ -14,7 +14,7 @@ Installing this package is very easy because the package has very few dependency
 ### Install with yarn .
 <code> yarn add cloudinary-direct </code>
 ### Install with npm .
-<code> yarn add cloudinary-direct </code>
+<code> npm i cloudinary-direct --save</code>
 
 ## How to use ?
 
@@ -60,7 +60,7 @@ You can choose which file to upload . This package will upload your file but it 
 
 ## Image Uploading :
 Here is an example with React . We will show how to upload an Image .
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
@@ -92,7 +92,7 @@ class Sender extends React.Component{
 ```
 ## For audio files :
 For uploading audio files with react-dropzone , use this :
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
@@ -125,7 +125,7 @@ class Sender extends React.Component{
 
 ## Uploading videos :
 Same here . Just change with 'videoUploader' function :
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
