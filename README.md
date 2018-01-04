@@ -60,7 +60,7 @@ You can choose which file to upload . This package will upload your file but it 
 
 ## Image Uploading :
 Here is an example with React . We will show how to upload an Image .
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
@@ -92,7 +92,7 @@ class Sender extends React.Component{
 ```
 ## For audio files :
 For uploading audio files with react-dropzone , use this :
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
@@ -125,7 +125,7 @@ class Sender extends React.Component{
 
 ## Uploading videos :
 Same here . Just change with 'videoUploader' function :
-```javascript
+```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
 import DropZone from 'react-dropzone';
