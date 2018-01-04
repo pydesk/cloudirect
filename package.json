@@ -1,12 +1,12 @@
 {
   "name": "cloudirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cloudinary direct call API utility which can help you upload images , videos and audio file .",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/*.test.js",
     "build": "babel src -d build",
-    "start": "node build/index.js"
+    "start": "node index.js"
   },
   "keywords": ["Cloudinary", "Utility"],
   "author": "Adib Mohsin",
@@ -31,5 +31,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/pacifio/express-informer.git"
-  }
+  },
+  "homepage": "https://github.com/pacifio/cloudirect"
 }
