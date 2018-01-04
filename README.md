@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/pacifio/cloudirect.svg?branch=master)](https://travis-ci.org/pacifio/cloudirect)
 
 ## What is this thing ?
-A cloudinary direct call API utility which can help you upload images , videos and audio file .
+A cloudinary direct call API utility which can help you upload images , videos and audio file . More options will be added in the future along with support and examples for multiple frameworks .
 
 The package was created to simplify the process of uploading file to cloudinary. You can upload image, video / .mp4 and audio / .mp3 files via this .
 
