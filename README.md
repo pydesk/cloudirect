@@ -84,7 +84,7 @@ class Sender extends React.Component{
   render(){
     return (
       <div>
-        <DropZone onDrop={this.handler}>
+        <DropZone onDrop={this.handler} />
       </div>
     )
   }
@@ -116,7 +116,7 @@ class Sender extends React.Component{
   render(){
     return (
       <div>
-        <DropZone onDrop={this.handler}>
+        <DropZone onDrop={this.handler} />
       </div>
     )
   }
@@ -149,7 +149,7 @@ class Sender extends React.Component{
   render(){
     return (
       <div>
-        <DropZone onDrop={this.handler}>
+        <DropZone onDrop={this.handler} />
       </div>
     )
   }
