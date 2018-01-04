@@ -1,5 +1,5 @@
 {
-  "name": "cloudirect",
+  "name": "cloudinary-direct",
   "version": "1.0.1",
   "description": "A cloudinary direct call API utility which can help you upload images , videos and audio file .",
   "main": "index.js",
