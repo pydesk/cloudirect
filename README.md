@@ -60,6 +60,7 @@ You can choose which file to upload . This package will upload your file but it 
 
 ## Image Uploading :
 Here is an example with React . We will show how to upload an Image .
+#### Don't mind the highlighting . JSX highlighting is in beta . I think .
 ```jsx
 import React from 'react';
 import Cloud from 'cloudniary-direct';
