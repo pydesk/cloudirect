@@ -1,5 +1,6 @@
 ## Cloudirect
 [![npm](https://img.shields.io/npm/v/npm.svg)]() [![npm](https://img.shields.io/npm/l/express.svg)]()
+[![Build Status](https://travis-ci.org/pacifio/cloudirect.svg?branch=master)](https://travis-ci.org/pacifio/cloudirect)
 
 ## What is this thing ?
 A cloudinary direct call API utility which can help you upload images , videos and audio file .
