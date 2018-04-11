@@ -1,5 +1,5 @@
 (function(){
-  'use string';
+  'use strict';
 })();
 
 const superagent = require('superagent');
